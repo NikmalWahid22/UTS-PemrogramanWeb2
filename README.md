@@ -79,6 +79,9 @@ Buka file `index.html` di browser. Untuk menguji chat antar pengguna, buka file 
 
 ## Hasil Eksperimen
 
+[Gambar 1](UTS/eksperimen.png)
+[Gambar 2](UTS/cmd.png)
+
 Setelah eksperimen dilakukan, beberapa temuan penting:
 
 - Pesan terkirim dan diterima secara **instan** tanpa jeda berarti
